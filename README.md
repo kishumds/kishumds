@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/kishumds)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kishumds)
 
 - 💬 Ask me about **Python, ML**
 
